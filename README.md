@@ -50,6 +50,7 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 ```
 
 ## XOR
+
 ```
 
 ```
@@ -100,8 +101,11 @@ VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
 ```
 
 ## Payload
+- Visited `/robots.txt` & got the code for backend
+- There was one `cmd` parameter, which executed the CLI commands
+- Displayed all environment variables using `/?cmd=printenv` & found the flag
 ```
-
+VishwaCTF{y0u_f-o-u-n-d_M3}
 ```
 
 ## Eeezzy
@@ -125,6 +129,7 @@ VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
 ```
 
 ## The Sender Conundrum
+
 ```
 
 ```
