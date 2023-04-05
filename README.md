@@ -37,3 +37,18 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 - On entering these values on Google Maps, we landed up somewhere in Netherlands
 - I checked out `Beatrixpark Dock` cause it seemed the nearest tourist attraction & I found a review by `vishwa_crimebranch`
 - As it said, I went to the instagram with the same username & found a Drive link in the post, it contained a `.mp4` video with a very small width
+
+
+## Wednesday Thursday Friday
+- Revered the binary in ghidra
+- There were some equations which the flag had to satisfy
+- Used the z3 solver to solve the equations to get the value of flag.
+- Refer to the [wed_thur_fri.py](assets/wed_thur_fri.py)
+
+## 0|1
+- `encrypt.c` was DES encryption in ECB mode.
+- `isThisFileUseful.txt` had the key for encryption.
+- `justBinaries.txt` was the cipher text but the bits were reversed using `up_down.py`.
+- Input everything in cyberchef to get the flag.
+![cyberchef recipe](assets/1_0.png)
+
