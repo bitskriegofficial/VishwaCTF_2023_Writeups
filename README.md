@@ -145,8 +145,10 @@ VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
 ```
 
 ## Can you see me?
+- We were given an image. On applying `binwalk` to it, we get a zip file with an audio file
+- On viewing the spectogram of this `.wav` file in **Audacity**, we get the flag
 ```
-
+vishwaCTF{n0w_y0u_533_m3}
 ```
 
 ## Privacy Breach
