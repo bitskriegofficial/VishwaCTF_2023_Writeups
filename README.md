@@ -29,9 +29,11 @@ VishwaCTF{f3_e6_g4_Qh4#}
 - I checked the metadata of the image using `exiftool`
 - We get size of image as `6186 x 614` & resolution as `118.1098901`
 
-- $Latitude = \frac{6186}{118.1098901} = 52.3749$
-<br><br>
+$Latitude = \frac{6186}{118.1098901} = 52.3749$
+<br>
+
 $Longitude = \frac{614}{118.1098901} = 5.1985$
+
 - On entering these values on Google Maps, we land up somewhere in Netherlands
 - I checked out `Beatrixpark Dock` cause it seemed the nearest tourist attraction & I found a review by people of VishwaCTF <br><br>![](./res/investigator.png)
 
