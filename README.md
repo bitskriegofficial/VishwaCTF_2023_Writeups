@@ -7,6 +7,9 @@ First Bloods - **3**<br>
 Points - **7118**
 
 ## Sharing is Caring
+```
+
+```
 
 ## CID
 - We are provided with an image `case69.jpg`. Nothing much in the picture, but reveals a password on checking metadata. Tried steghide with password, nothing
@@ -42,18 +45,132 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 - 
 
 ## Super23
+```
 
+```
+
+## XOR
+```
+
+```
+
+## Email Incoming
+```
+
+```
+
+## Mascot
+```
+
+```
+
+## Nice guys finish last
+```
+
+```
+
+## Welcome to VISHWACTF'23!
+- Sanity check
+```
+VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
+```
+
+## Quick Heal
+```
+
+```
 
 ## Wednesday Thursday Friday
 - Revered the binary in ghidra
 - There were some equations which the flag had to satisfy
 - Used the z3 solver to solve the equations to get the value of flag.
 - Refer to the [wed_thur_fri.py](assets/wed_thur_fri.py)
+```
 
-## 0|1
-- `encrypt.c` was DES encryption in ECB mode
+```
+
+## Reversing is Ezeeee....
+```
+
+```
+
+## aLive
+```
+
+```
+
+## Payload
+```
+
+```
+
+## Eeezzy
+```
+
+```
+
+## Phi-Calculator
+```
+
+```
+
+## Guatemala
+```
+
+```
+
+## Mystery of Oakville Town
+```
+
+```
+
+## The Sender Conundrum
+```
+
+```
+
+## 1nj3ct0r
+```
+
+```
+
+## I LOVE YOU
+```
+
+```
+
+## Just Files
+```
+
+```
+
+## Can you see me?
+```
+
+```
+
+## Privacy Breach
+```
+
+```
+
+## Fr1endship Forever
+```
+
+```
+
+## Blockblaster
+```
+
+```
+
+## 0 | 1
+- `encrypt.c` was **DES encryption in ECB mode**
 - `isThisFileUseful.txt` had the key for encryption
 - `justBinaries.txt` was the cipher text but the bits were reversed using `up_down.py`
-- Input everything in CyberChef to get the flag<br><br>
-![](assets/1_0.png)
+- Input everything in ***CyberChef*** to get the flag
 
+![](assets/1_0.png)
+```
+
+```
