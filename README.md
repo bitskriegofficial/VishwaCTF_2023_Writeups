@@ -51,9 +51,9 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 - Refer to the [wed_thur_fri.py](assets/wed_thur_fri.py)
 
 ## 0|1
-- `encrypt.c` was DES encryption in ECB mode.
-- `isThisFileUseful.txt` had the key for encryption.
-- `justBinaries.txt` was the cipher text but the bits were reversed using `up_down.py`.
-- Input everything in cyberchef to get the flag.
-![cyberchef recipe](assets/1_0.png)
+- `encrypt.c` was DES encryption in ECB mode
+- `isThisFileUseful.txt` had the key for encryption
+- `justBinaries.txt` was the cipher text but the bits were reversed using `up_down.py`
+- Input everything in CyberChef to get the flag<br><br>
+![](assets/1_0.png)
 
