@@ -6,6 +6,8 @@ Flags - **28/47**<br>
 First Bloods - **3**<br>
 Points - **7118**
 
+## Sharing is Caring
+
 ## CID
 - We are provided with an image `case69.jpg`. Nothing much in the picture, but reveals a password on checking metadata. Tried steghide with password, nothing
 - Tried `binwalk`, reveals a `7z` file. Extracted it, and found several images with a text file. Text file of not much use
@@ -37,3 +39,6 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 - On entering these values on Google Maps, we landed up somewhere in Netherlands
 - I checked out `Beatrixpark Dock` cause it seemed the nearest tourist attraction & I found a review by `vishwa_crimebranch`
 - As it said, I went to the instagram with the same username & found a Drive link in the post, it contained a `.mp4` video with a very small width
+- 
+
+## Super23
