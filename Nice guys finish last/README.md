@@ -1,0 +1,1 @@
+# Nice guys finish last
