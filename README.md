@@ -144,8 +144,12 @@ VishwaCTF{y0u_f-o-u-n-d_M3}
 ```
 
 ## I LOVE YOU
+- The dialogue in the audio file are by none other than the ***Ironman***
+- We get the `.exe` file from **DeepSound**
+- When we run the file, we are asked the last message of Ironman for his daughter, which was `I_LOVE_YOU_3000`
+- We get the flag after inputting the same
 ```
-
+vishwaCTF{James_2008}
 ```
 
 ## Just Files
@@ -161,6 +165,7 @@ vishwaCTF{n0w_y0u_533_m3}
 ```
 
 ## Privacy Breach
+
 ```
 
 ```
