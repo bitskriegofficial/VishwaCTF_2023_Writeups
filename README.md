@@ -43,6 +43,9 @@ $Longitude = \frac{614}{118.1098901} = 5.1985$
 - I checked out `Beatrixpark Dock` cause it seemed the nearest tourist attraction & I found a review by `vishwa_crimebranch`
 - As it said, I went to the instagram with the same username & found a Drive link in the post, it contained a `.mp4` video with a very small width
 - 
+```
+
+```
 
 ## Super23
 ```
@@ -96,8 +99,9 @@ VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
 ```
 
 ## aLive
+- Ran a simple directory search & found `/flag.txt`
 ```
-
+VishwaCTF{b1inD_cmd-i}
 ```
 
 ## Payload
@@ -179,5 +183,5 @@ vishwaCTF{n0w_y0u_533_m3}
 
 ![](assets/1_0.png)
 ```
-
+vishwaCTF{3v3ryth1ng_15_m3s5y_4r0und_h3r3....}
 ```
