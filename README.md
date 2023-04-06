@@ -85,10 +85,10 @@ VishwaCTF{w3_ar3_an0nym0u5_w3_4r3_l3g1on_w3_d0_not_f0rg1v3_w3_do_not_f0rg3t}
 ```
 
 ## Wednesday Thursday Friday
-- Revered the binary in ghidra
+- Revered the binary in **Ghidra**
 - There were some equations which the flag had to satisfy
-- Used the z3 solver to solve the equations to get the value of flag.
-- Refer to the [wed_thur_fri.py](assets/wed_thur_fri.py)
+- Used the `z3 solver` to solve the equations & get the value of flag
+- Refer to the script - [wed_thur_fri.py](assets/wed_thur_fri.py)
 ```
 
 ```
@@ -173,7 +173,7 @@ vishwaCTF{n0w_y0u_533_m3}
 ## Fr1endship Forever
 - We found the account `@Fr1endJames` on **Twitter**
 - The tweets mentioned about version code & the project - `Endsem_Last_Minute-Project`, we found a **GitHub** repository with the same name
-- On checking the commits, we found the flag in commit `fe59944`
+- On checking the commits, we found the flag in commit [fe59944](https://github.com/Your-James/Endsem_Last_Minute-Project/commit/fe599443374ecc8026da74872cc22ac62e1c55e6)
 ```
 VishwaCTF{LbjtQY_449yfcD}
 ```
