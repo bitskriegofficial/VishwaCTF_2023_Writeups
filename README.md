@@ -1,4 +1,4 @@
-# VishwaCTF_2023_Writeups
+# VishwaCTF-2023 Writeups
 Our writeups for VishwaCTF 2023<br><br>
 Team Name - **BITSkrieg**<br>
 Rank - **#6/1090**<br>
