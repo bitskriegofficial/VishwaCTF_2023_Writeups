@@ -346,6 +346,7 @@ solver.add(
     - flag[0x1C]
     == -0x494B
 )
+
 print("Check 1")
 print(solver.check())
 m = solver.model()
